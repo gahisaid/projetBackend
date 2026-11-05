@@ -16,3 +16,5 @@ function showAge(int &$a)
 showAge($age);
 
 echo "mon age après appel de la fonction est : $age";
+// TP 2
+Echo "TP2";
